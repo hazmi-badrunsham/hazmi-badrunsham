@@ -1,19 +1,25 @@
-<!-- Banner style -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hye%2C+Im+Hazmi" alt="Typing SVG" /></a>
-</p>
+# 🥷 Hazmi Badrunsham
 
-<!--
-**hazmi-badrunsham/hazmi-badrunsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Chapter 1: The Debug Begins."*
 
-Here are some ideas to get you started:
+👋 I'm Hazmi — just getting started with programming.  
+Trying, failing, learning, repeating.  
+Currently exploring Dart, Flutter & open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech I'm training with:
+- Dart / Flutter
+- GitHub & VS Code
+- Minimal UI / CLI tools
+
+---
+
+### 🧪 Ongoing Quest:
+[`jawi_converter`](https://pub.dev/packages/jawi_converter) — Rumi to Jawi conversion for Malay text.
+
+---
+
+### ☁️ Goal:
+> Keep learning. Keep building. Stay consistent.
+
