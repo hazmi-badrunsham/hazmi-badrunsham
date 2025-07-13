@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- Banner style -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hajimemashite!+I'm+Hazmi!;Aspiring+Dev+in+Training!;Leveling+Up+One+Bug+at+a+Time!" />
+</p>
 
 <!--
 **hazmi-badrunsham/hazmi-badrunsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
