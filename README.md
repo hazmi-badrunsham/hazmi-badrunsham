@@ -3,6 +3,6 @@
 | 🧾 Info        | 💬 Details                                                                 |
 |---------------|----------------------------------------------------------------------------|
 | **Name**      | Hazmi Bin Badrunsham                                                       |
-| **Education** | International Islamic University Malaysia (IIUM) [url=https://office.iium.edu.my/ocap/wp-content/uploads/sites/2/2025/07/Official_Logo_IIUM_Kanan_BlackText.png]                          |
+| **Education** | International Islamic University Malaysia (IIUM) <br><img src="https://office.iium.edu.my/ocap/wp-content/uploads/sites/2/2025/07/Official_Logo_IIUM_Kanan_BlackText.png" alt="IIUM Logo" width="200"/>                          |
 | **Tech**      | `Dart`, `Flutter`, `GitHub`, `VS Code`                                     |
 | **About Me**  |Total beginner in programming and all that. Eager to learn and improve myself. |
